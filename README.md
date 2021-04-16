@@ -1,35 +1,3 @@
 # ATM
 
 TO TEST: just download both .java files and run ATM.java
-
-Enter Card Holder's Name: 
-Daniel
-Enter PIN: 
-1234
-Welcome to the bank
-Choose one of the following options: 
-1 - Sign In
-2 - Deposit
-3 - Withdraw
-4 - Display Account Info
-5 - Exit
-Welcome to the bank
-Choose one of the following options: 
-1 - Sign In
-2 - Deposit
-3 - Withdraw
-4 - Display Account Info
-5 - Exit
-4
-Would you like to view your checking or savings balance? 
-checking
-Your current checking account balance is: 1000
-Welcome to the bank
-Choose one of the following options:
-1 - Sign In
-2 - Deposit
-3 - Withdraw
-4 - Display Account Info
-5 - Exit
-5
-Signed out of account.
